@@ -1,6 +1,6 @@
 ---
 name: doc-constraints
-description: This skill should be used after doc-brainstorming completes, or when writing constraints need to be extracted, updated, or reviewed. It distills brainstorming results into a concise, verifiable constraints file that persists throughout the writing lifecycle.
+description: This skill is called by doc-brainstorming after it completes, or when writing constraints need updating mid-writing. It distills brainstorming results into a concise, verifiable constraints file that persists throughout the writing lifecycle.
 ---
 
 # Doc Constraints

@@ -1,6 +1,6 @@
 ---
 name: doc-validation
-description: This skill should be used to validate document writing output against the constraints file. It is called automatically by doc-writing-plans before presenting each section to the author, or manually when reviewing existing document content.
+description: This skill is called automatically by doc-writing-plans before presenting each section to the author. It validates writing output against the constraints file and blocks delivery of content that violates constraints.
 ---
 
 # Doc Validation

@@ -1,6 +1,6 @@
 ---
 name: doc-writing-plans
-description: This skill should be used after doc-constraints produces a constraints file, when ready to plan and execute the actual document writing. It breaks the document into section-level tasks with built-in validation gates.
+description: This skill is called by doc-constraints after the constraints file is created. It breaks the document into section-level tasks, executes writing section by section, and calls doc-validation before presenting each section.
 ---
 
 # Doc Writing Plans

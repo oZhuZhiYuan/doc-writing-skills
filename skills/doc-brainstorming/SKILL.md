@@ -1,6 +1,6 @@
 ---
 name: doc-brainstorming
-description: This skill should be used before any document writing task — articles, technical docs, reports, or any structured writing. It explores the author's intent, audience, scope, and style through collaborative dialogue before any writing begins.
+description: This skill is loaded by the doc-writing dispatcher when the user confirms they want the full writing workflow. It explores the author's intent, audience, scope, and style through collaborative dialogue before any writing begins.
 ---
 
 # Doc Brainstorming
